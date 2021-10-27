@@ -6,4 +6,4 @@ v2ray 官方移除了 xtls，[xray](https://github.com/XTLS/Xray-core)
 
 
 ## Changes
-
+- updated to xraycore v1.5
