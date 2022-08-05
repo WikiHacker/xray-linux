@@ -10,3 +10,5 @@ v2ray 官方移除了 xtls，[xray](https://github.com/XTLS/Xray-core)
 - -v1.5.3 updated
 - v1.5.4 updated
 - v1.5.8 updated 7/8/2022
+- v1.5.9 updated 8/5/2022
+
