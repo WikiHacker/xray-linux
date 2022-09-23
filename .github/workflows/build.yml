@@ -30,7 +30,7 @@ jobs:
           git clone https://github.com/XTLS/Xray-core.git
           cd Xray-core
           #git checkout tags/v1.4.5
-          git checkout tags/v1.5.9
+          git checkout tags/v1.6.0
           cd ..
           wget https://raw.githubusercontent.com/felix-fly/xray-openwrt/master/build.sh
           chmod +x ./build.sh
